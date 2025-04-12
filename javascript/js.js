@@ -78,4 +78,4 @@ while (promptmenu !==4) {
     promptmenu = parseInt(prompt("1 para agregar productos\n2 para mostrar productos\n3 para eliminar el prodcuto\n4 para salir"))
 }
 
-alert("muchas gracias por usarme, adios!")
+alert("adios")
